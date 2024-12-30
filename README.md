@@ -7,6 +7,8 @@
 - ⚡ Fun fact: ...
 
 <!---
-Kevinroberto219reyesteamoreres/Kevinroberto219reyesteamoreres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kevinroberto219reyesteamoreres/Kevinroberto219reyesteamoreres is a ✨ special ✨ repository because its `README.md` (this file) appears[CONTRIBUTING.md](https://github.com/user-attachments/files/18277185/CONTRIBUTING.md)
+ on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[CONTRIBUTING.md](https://github.com/user-attachments/files/18277189/CONTRIBUTING.md)
